@@ -66,7 +66,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1920" height="1080" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/b03a794a-d678-4656-aee8-5cd00b80ba13" />
+
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/815736e4-fa78-49c5-86f2-653dd3446e44" />
 
 **RESULTS**
 Thus,the JK flipflop executed successfully.
